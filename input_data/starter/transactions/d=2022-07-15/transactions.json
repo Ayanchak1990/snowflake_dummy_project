@@ -1,0 +1,26 @@
+{"customer_id": "C4", "basket": [{"product_id": "P43", "price": 87}, {"product_id": "P55", "price": 626}], "date_of_purchase": "2022-07-16 04:16:07.329034"}
+{"customer_id": "C5", "basket": [{"product_id": "P37", "price": 1972}, {"product_id": "P39", "price": 1142}], "date_of_purchase": "2022-07-16 13:52:07.329034"}
+{"customer_id": "C6", "basket": [{"product_id": "P36", "price": 980}, {"product_id": "P35", "price": 1195}], "date_of_purchase": "2022-07-16 03:02:07.329034"}
+{"customer_id": "C15", "basket": [{"product_id": "P53", "price": 473}], "date_of_purchase": "2022-07-16 18:56:07.329034"}
+{"customer_id": "C16", "basket": [{"product_id": "P60", "price": 1770}, {"product_id": "P59", "price": 1475}], "date_of_purchase": "2022-07-16 03:01:07.329034"}
+{"customer_id": "C25", "basket": [{"product_id": "P62", "price": 965}, {"product_id": "P65", "price": 290}, {"product_id": "P63", "price": 1148}], "date_of_purchase": "2022-07-16 10:44:07.329034"}
+{"customer_id": "C26", "basket": [{"product_id": "P39", "price": 206}], "date_of_purchase": "2022-07-16 11:39:07.329034"}
+{"customer_id": "C34", "basket": [{"product_id": "P34", "price": 1201}, {"product_id": "P33", "price": 1207}, {"product_id": "P25", "price": 1018}], "date_of_purchase": "2022-07-16 04:05:07.329034"}
+{"customer_id": "C46", "basket": [{"product_id": "P28", "price": 1150}], "date_of_purchase": "2022-07-16 18:22:07.329034"}
+{"customer_id": "C55", "basket": [{"product_id": "P06", "price": 904}], "date_of_purchase": "2022-07-16 14:59:07.329034"}
+{"customer_id": "C62", "basket": [{"product_id": "P37", "price": 1979}, {"product_id": "P35", "price": 843}, {"product_id": "P36", "price": 1820}], "date_of_purchase": "2022-07-16 02:24:07.329034"}
+{"customer_id": "C66", "basket": [{"product_id": "P33", "price": 423}], "date_of_purchase": "2022-07-16 11:02:07.329034"}
+{"customer_id": "C69", "basket": [{"product_id": "P55", "price": 454}, {"product_id": "P58", "price": 677}], "date_of_purchase": "2022-07-16 14:21:07.329034"}
+{"customer_id": "C71", "basket": [{"product_id": "P66", "price": 1327}], "date_of_purchase": "2022-07-16 12:26:07.329034"}
+{"customer_id": "C77", "basket": [{"product_id": "P12", "price": 1436}, {"product_id": "P07", "price": 1775}, {"product_id": "P03", "price": 1146}], "date_of_purchase": "2022-07-16 04:35:07.329034"}
+{"customer_id": "C79", "basket": [{"product_id": "P04", "price": 1297}, {"product_id": "P07", "price": 622}], "date_of_purchase": "2022-07-16 09:26:07.329034"}
+{"customer_id": "C97", "basket": [{"product_id": "P37", "price": 1699}, {"product_id": "P40", "price": 1538}], "date_of_purchase": "2022-07-16 12:26:07.329034"}
+{"customer_id": "C102", "basket": [{"product_id": "P37", "price": 853}, {"product_id": "P39", "price": 1737}, {"product_id": "P36", "price": 917}], "date_of_purchase": "2022-07-16 00:02:07.329034"}
+{"customer_id": "C105", "basket": [{"product_id": "P27", "price": 201}], "date_of_purchase": "2022-07-16 00:21:07.329034"}
+{"customer_id": "C111", "basket": [{"product_id": "P36", "price": 1909}], "date_of_purchase": "2022-07-16 10:21:07.329034"}
+{"customer_id": "C121", "basket": [{"product_id": "P25", "price": 73}, {"product_id": "P27", "price": 1015}, {"product_id": "P28", "price": 358}], "date_of_purchase": "2022-07-16 02:56:07.329034"}
+{"customer_id": "C124", "basket": [{"product_id": "P26", "price": 1011}], "date_of_purchase": "2022-07-16 11:24:07.329034"}
+{"customer_id": "C129", "basket": [{"product_id": "P40", "price": 346}, {"product_id": "P38", "price": 321}], "date_of_purchase": "2022-07-16 15:17:07.329034"}
+{"customer_id": "C132", "basket": [{"product_id": "P18", "price": 388}, {"product_id": "P15", "price": 457}, {"product_id": "P16", "price": 621}], "date_of_purchase": "2022-07-16 14:33:07.329034"}
+{"customer_id": "C133", "basket": [{"product_id": "P22", "price": 604}, {"product_id": "P34", "price": 1883}, {"product_id": "P24", "price": 1089}], "date_of_purchase": "2022-07-16 08:03:07.329034"}
+{"customer_id": "C136", "basket": [{"product_id": "P58", "price": 519}], "date_of_purchase": "2022-07-16 07:33:07.329034"}

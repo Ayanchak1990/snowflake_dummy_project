@@ -55,7 +55,7 @@ We are using **Multi Table Insert(MTI)** to load the data in parallel from a str
 ***Below is the implementation diagram which shows the whole process in short***
 
 
-<img width="832" alt="convex_data_landscape" src="https://user-images.githubusercontent.com/38339739/189280126-51e580d8-ac3d-4eb1-8d4a-96e47c183a61.png">
+<img width="842" alt="Screen Shot 2022-09-09 at 11 14 16 AM" src="https://user-images.githubusercontent.com/38339739/189280242-49645a8a-b7d8-4925-aa9d-c20f4de1cdf6.png">
 
 
 ***Also Different role and credentials have been created for Data science user to have only access to data mart layer***

@@ -1,4 +1,4 @@
-# Snowflake Data Test - Starter Project(Solution By Ayan Chakraborty)
+# Snowflake Dummy Project - Starter Project(Solution By Ayan Chakraborty)
 
 ## Primary Diagonostic of the solution file provided and setup
 
@@ -53,7 +53,9 @@ There is another option to create automate load in Snoflake Using Snowpipe. But,
 
 We are using **Multi Table Insert(MTI)** to load the data in parallel from a stream to the respective destination tables. <br />
 ***Below is the implementation diagram which shows the whole process in short***
-<img width="832" alt="convex_data_landscape" src="https://user-images.githubusercontent.com/38339739/186574745-0444245f-450e-4e49-bb52-7c33b2bad0d6.png">
+
+
+<img width="832" alt="convex_data_landscape" src="https://user-images.githubusercontent.com/38339739/189280126-51e580d8-ac3d-4eb1-8d4a-96e47c183a61.png">
 
 
 ***Also Different role and credentials have been created for Data science user to have only access to data mart layer***

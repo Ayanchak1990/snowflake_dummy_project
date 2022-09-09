@@ -1,27 +1,6 @@
-# Snowflake Data Engineer Tech Test
+
 
 ## Introduction
-
-This assessment is designed for candidates to demonstrate their knowledge of good software and data engineering practices. Please complete the assessment task at home, it should take around 2-3 hours to complete.
-
-You can use Python to generate the required sample data (instructions for installing python on your machine, are in the links below).
-[ADD LINK HERE]
-
-### Test Instructions
-The purpose of this exercise is to complete a small data pipeline that aggregates and transforms input data according to requirements driven by the data science team. The details of this are given later in this document.
-
-Please fork this repo and build out your solution.
-
-You will be required to have an AWS account where you can create an S3 bucket. You will also need a trial Snowflake account to complete the task.
-
-The aim of this exercise is to write code that processes existing data sources so that it meets requirements. 
-As part of solving this, we are looking to assess:
-* Your problem-solving approach.
-* Your ability to turn your solution into working code and choosing appropriate technology.
-
-
-
-## Tech Test 
 User Story
 
     Customer Shopping Patterns
